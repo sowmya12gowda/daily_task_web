@@ -1,0 +1,80 @@
+body{
+	background-color:pink; 
+}
+
+	/*div{
+		width: 478px;
+		background-color:red;
+		height: 370px;
+		margin-top: 40px;
+		margin-left: 300px;
+		border-radius: 40px;
+	}*/
+	.menu1{
+		margin-left: 52px;
+		margin-top:36px;
+		color:red;
+
+	}
+	.menu2{
+		margin-left: 52px;
+		margin-top: 40px;
+		color:red;
+	}
+	.menu3{
+
+{
+			margin-left:100px;
+			margin-top:1px;
+			color:red;
+		}
+			.menu4{
+				margin-left:152px;
+				margin: 40px;
+				color:red;
+				width: 130px;
+				padding: 8px;
+			}
+			.menu5{
+				margin-left: 52px;
+				margin-top: 40px;
+				color:red;
+			}
+			.menu6{
+				background-color:red;
+				color:pink;
+				margin-top: 170px; 
+			}
+
+			.fourth{
+				margin-top:100px;
+				text-align: center;
+			}
+			a.hover{
+				background-color: pink: 
+			}
+
+
+
+
+
+
+
+
+			
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+

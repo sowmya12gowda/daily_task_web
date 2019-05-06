@@ -1,0 +1,12 @@
+body{
+	background-color: yellow;
+}
+#pos{
+	color: green;
+}
+.pos1{
+	color:blue;
+	text-align: center;
+	font-style: italic;
+
+}

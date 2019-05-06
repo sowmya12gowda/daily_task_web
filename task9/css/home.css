@@ -1,0 +1,43 @@
+#first{
+	background-color:gray; 
+	/*width: 50%;
+	margin-left: 300px;
+	margin-bottom: 30px;*/
+}
+#margin{
+	background-color:pink;
+	margin:20px;
+	color:black;
+	}
+	
+.home{
+	margin-left:126px;
+	color: red;
+}
+.product{
+	margin-left: 50px;
+	color:blue;
+
+}
+.contact{
+	margin-left:50px;
+	color: yellow;
+	}
+	img{
+		float:right;
+		width:190px;
+	} 
+	#third{
+		margin:20px;
+		background-color:green;
+		padding:20;
+		color:pink; 
+	}
+	#fourth{
+		width:20px;
+		height:40px;
+		background-color:red;	
+}
+a:hover{
+	background-color: red:;
+}

@@ -1,0 +1,41 @@
+body{
+	background-color: pink;
+	font-style: italic;
+}
+h1{
+	text-align: center;
+	font-style: italic;
+	color: black;
+}
+img{
+	height:200px;
+	width: 200px;
+}
+#menu{
+	color: red;
+	font-size: 23;
+
+}
+.menu1{
+	color:blue;
+	font-size: 23; 
+}
+#menu2{
+	font-size: 23;
+	color: yellow;
+
+}
+.pos1{
+	margin-left: 140px;
+}
+.pos2{
+	margin-left: 170px;
+}
+.pos3{
+	margin-left: 140px;
+}
+
+
+
+
+

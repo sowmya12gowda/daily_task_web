@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	background-color:yellow; 
+}
+h1{
+	text-align: center;;
+	font-style: italic;
+	color:red;
+}
+#align{
+	height: 500%;
+	width: 500%;
+}
