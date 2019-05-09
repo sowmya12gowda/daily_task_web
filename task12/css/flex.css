@@ -1,0 +1,25 @@
+.esc{
+	display:flex;
+	flex-direction: row;
+	
+}
+.esc>div{
+	background-color:white;
+	color:black;
+	margin: 10px;
+	width: 140px;
+	line-height: 20px;
+
+}
+
+img{
+	width: 140px;
+	height: 200px;
+}
+button{
+	font-size: 18px;
+    height: 30px;
+    width: 140px;
+    margin: 10px 25px;
+    background-color:gray;
+}
