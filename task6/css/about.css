@@ -19,7 +19,15 @@ color:red;
 }
 .move{
 	text-align: center;
+	margin-top: 140px;
+}
+#us{
+	text-decoration: none;
 }
 #tab{
 	color:yellow;
+}
+
+.fafa-goggle-plus{
+ text-decoration: none;
 }

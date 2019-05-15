@@ -4,17 +4,20 @@ body{
 .flex-box{
 	display: flex;
 	height: 400px;
-	width: 400px;
+	width: 450px;
 	flex-direction: column;
-	margin-left: 120px;
+	margin-left: 420px;
 	margin-top: 50px;
 }
+.flex-box > div{
+	background-color: transparent;
+}
 
-	#align{
-		margin-left: 200px;
-		padding: 20px;
-		color:rgb(192,192,192);
-	}
+	#about {
+    margin-left: -21px;
+    padding: 32px;
+    color: rgb(131,145,146);
+}
 	img{
 		border-radius:50%;
 		height: 100px;
@@ -30,7 +33,7 @@ body{
 .down{
 		margin-left: 140px;
 }
-.flex-box>div:hover{
-	background-color:#808080;
-	color:black;
+.flex-box > div:hover{
+	background-color:#EBDEF0;
+	color:red;
 }
